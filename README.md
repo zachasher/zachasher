@@ -1,4 +1,4 @@
-<span style="background-color:blue;">
+<section style="background-color:blue;">
 # Welcome to my GitHub
 
 - 👋 Hi, I’m @zachasher
@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on any open source or business projects.
 - 📫 You can reach me on LinkedIn
 
-  <span/>
+  <section/>
 
 <!---
 zachasher/zachasher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
