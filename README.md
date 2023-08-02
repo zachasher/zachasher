@@ -1,4 +1,4 @@
-## Welcome to my Github
+# Welcome to my Github
 
 - 👋 Hi, I’m @zachasher
 - 👀 I’m interested in tech, health & fitness and travelling.
