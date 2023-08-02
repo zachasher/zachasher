@@ -1,4 +1,3 @@
-<section style="background-color:blue;">
 # Welcome to my GitHub
 
 - 👋 Hi, I’m @zachasher
@@ -6,8 +5,6 @@
 - 🌱 I’m currently learning to be a full stack software engineer with Brainstation.
 - 💞️ I’m looking to collaborate on any open source or business projects.
 - 📫 You can reach me on LinkedIn
-
-  <section/>
 
 <!---
 zachasher/zachasher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
