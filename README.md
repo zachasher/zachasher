@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @zachasher
 - 👀 I’m interested in tech, health & fitness and travelling.
-- 🌱 I’m currently learning to be a full stack software engineer with Brainstation.
+- 🌱 I’m a full stack software engineer, proficient in HTML, JavaScript/Typescript, CSS/SASS/Tailwind, React, Next.js, Node.js and SQL.
 - 💞️ I’m looking to collaborate on any open source or business projects.
 - 📫 You can reach me on LinkedIn
 
